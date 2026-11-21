@@ -1,0 +1,5 @@
+Asset/
+docs/
+node_modules/
+assets/projects/*.png
+.verify/
